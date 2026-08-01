@@ -1,8 +1,9 @@
-# ashish.tripathi-growing
-my first repo
+# Ashish Tripathi-growing
+**my name is Ashish Tripathi
 
-about html,css
 
-now
+##I am here to learn
+
+## now
 
 make it 
